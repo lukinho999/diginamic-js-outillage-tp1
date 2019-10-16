@@ -1,0 +1,13 @@
+{
+  "name": "ateliernode",
+  "version": "1.0.0",
+  "description": "\"salut node js\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "http" : "node http-server.js",
+    "numbers": "node app.js"
+  },
+  "author": "Luc SERGENT",
+  "license": "ISC"
+}
